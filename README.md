@@ -1,8 +1,7 @@
-# {Triangle Track}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+#Triangle Track
+#### {A website that is able to tell it's users what type of triangle they have once they input 3 values}, by Francis Mwangi.{December 1st 2018}
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{The website is a triangle tracker that allows users to identify what type of triangle they have using the 3 lengths present in a triangle. The user inputs 3 values in the three prompts (x,y,z) and the website tells them whether the values would be viable for an isosceles triangle, an equilateral triangle, a scalene triangle or wouldn't make a triangle at all(not a triangle). The user is required to input 3 numerical values (the three sides of the triangle and the website will tell them what kind of a triangle it is and explain why as well.) However as of now the website can only identify three types of triangle (an isosceles triangle, an equilateral triangle, a scalene triangle) and also tell a user if the values can't form a triangle. Future iterations should have more capabilities on this feature.It's also important to note that the values a user inputs have to be in numeric form and can't be in alphanumeric or alphabetic form. In short the user has to enter numbers and can't put numbers in the form of words(an example would be "thirty") as this will not work for now.}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -11,11 +10,11 @@
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{There aren't any known bugs as of yet but if you come across any bugs please feel free to reach out to me and I'll be more than happy to fix them.}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{I used basic HTML, CSS and Javascript up until this point but there are more changes on the way.I expect to incorporate jQuery for the forms to work.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{Please reach out to me on abcdef@gmail.com for support.If you'd also like to request a new function, feel free to do so as well. All feedback is highly appreciated.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This project is licensed under the terms of the GPL license. Copyright (c) 2018
 Copyright (c) {2018}

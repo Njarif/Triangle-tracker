@@ -1,3 +1,4 @@
+function triangletracker(){
 var x = parseInt(prompt("enter value x:"));
 var y = parseInt(prompt("enter value y:"));
 var z = parseInt(prompt("enter value z:"));
@@ -11,3 +12,5 @@ alert("Your triangle is an Isosceles: Exactly 2 sides are equal");
 }else if(x!=y && y!=z && x!=z){
 alert("Your triangle is a Scalene: No sides are equal");
 }
+}
+triangletracker();

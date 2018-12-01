@@ -13,3 +13,8 @@ p {
 ul {
   line-height: 40px;
 }
+#para1 {color:#050;
+  font: bold 84% 'trebuchet ms',helvetica,sans-serif;
+  background-color:#fed;
+  border:1px solid;
+  border-color: #696 #363 #363 #696;}

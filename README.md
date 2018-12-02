@@ -17,4 +17,3 @@
 {Please reach out to me on abcdef@gmail.com for support.If you'd also like to request a new function, feel free to do so as well. All feedback is highly appreciated.}
 ### License
 *This project is licensed under the terms of the GPL license. Copyright (c) 2018
-Copyright (c) {2018}

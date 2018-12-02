@@ -1,15 +1,25 @@
-.Seymour{ color: green;
-          text-align: left=;
-
-
-
+body {background -color: url (images/Math-Wallpaper.jpg)
 }
-
+.explanation {
+  font-style: italic;
 }
 h1 {
   color: blue;
-  text-align: left;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
 }
 p {
   font-family: sans-serif;
 }
+ul {
+  line-height: 40px;
+}
+#para1 {color:#050;
+  font: bold 84% 'trebuchet ms',helvetica,sans-serif;
+  background-color:#fed;
+  border:1px solid;
+  border-color: #696 #363 #363 #696;}

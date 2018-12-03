@@ -1,22 +1,26 @@
 h1 {
-  color: dodgerblue;
+  color: orange;
   text-align: center;
   font-style: oblique;
   font-family: sans-serif;
 }
 P {
-  color: dodgerblue;
+  color: orange;
   font-style: italic;
   font-family: sans-serif;
 }
+.numbers{
+  text-decoration: underline;
+
+}
 H2 {
-  color: dodgerblue;
+  color: orange;
   font-style: italic;
   font-family: sans-serif;
   text-align: center;
 }
 ul{
-  color: dodgerblue;
+  color: orange;
   text-align: left;
   text-transform: capitalize;
   line-height: normal;

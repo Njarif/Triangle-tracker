@@ -16,13 +16,8 @@ H2 {
   font-family: sans-serif;
   text-align: center;
 
-.triangles {
+ .triangles {
   line-height: 40px;
   text-align: center;
-  color: green;
-}
-
-#para1 {
-  font: bold 'trebuchet ms',helvetica,sans-serif;
   color: green;
 }

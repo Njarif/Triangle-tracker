@@ -1,45 +1,38 @@
 <!DOCTYPE html>
 <html>
   <head>
-<<<<<<< HEAD
     <title>TRIANGLE TRACKER</title>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="triangle.js"></script>
   </head>
-=======
-    <img src="images/Math.jpg" alt="Maths formulae.">
-  <div class="background">
-  <title>TRIANGLE TRACKER</title>
   <link href="css/styles.css" rel="stylesheet" type="text/css">
-</head>
-<h1>TRIANGLE TRACKER</h1>
-<p> This website will describe the type of triangle you have when you input your values.</p>
-  </div>
->>>>>>> master
-  <body>
+  <body background ="images/math-wallpaper.jpg">
+
     <h1><u>TRIANGLE TRACKER</u></h1>
     <p><strong> This website will describe the type of triangle when you input your values.</strong></p>
     <p><strong>Please provide 3 values(<mark>numbers only</mark>) to the following 3 fields, and "Submit" your values for results.</strong></p><br>
-  <FORM NAME=“Value X" ACTION="" METHOD="GET">Enter value X: <BR>
-    <INPUT TYPE="number" NAME="inputbox" VALUE=""><P>
-    <FORM NAME=“Value Y" ACTION="" METHOD="GET">Enter value Y: <BR>
-    <INPUT TYPE="number" NAME="inputbox" VALUE=""><P>
-    <FORM NAME=“Value Z" ACTION="" METHOD="GET">Enter value Z: <BR>
-    <INPUT TYPE="number" NAME="inputbox" VALUE=""><P>
-    <INPUT id="para1" TYPE="button" NAME="button" Value="Submit" onClick="triangletracker">
-  </FORM>
+    <form action="/triangle.js">
+      value x:<br>
+        <input type="number" name="valuex" value="number"><br>
+      value y:<br>
+        <input type="number" name="valuey" value="number"><br>
+      value z:<br>
+        <input type="number" name="valuez" value="number"><br><br>
+        <input type="submit" value="Submit">
+    </form>
 
-  <h2><u>Triangle facts, theorems, and laws</u></h2>
+  <h2><u>Triangle facts, theorems, and laws</u></h2><br>
+  <div= "triangles">
+  <ol>
 
-<li>
+    <li>The sum of the lengths of any two sides of a triangle is always larger than the length of the third side.</li>
+    <li>Triangles are becoming used more in construction. They are harder to use than rectangles, but can be stronger and may be more resistant to earthquakes.</li>
+    <li>If you draw a line in a rectangle from far corner to corner you cut the rectangle into two right triangles.</li>
+    <li>If you know two of the angles in a triangle, you can always figure out the third because they must add up to 180 degrees.</li>
+    <li>The sum of the lengths of any two sides of a triangle is always longer than the third side.</li>
+    <li>The triangle and two is a type of defense used in basketball.</li>
 
-  <ul>The sum of the lengths of any two sides of a triangle is always larger than the length of the third side.</ul>
-  <ul>Triangles are becoming used more in construction. They are harder to use than rectangles, but can be stronger and may be more resistant to earthquakes.</ul>
-  <ul>If you draw a line in a rectangle from far corner to corner you cut the rectangle into two right triangles.</ul>
-  <ul>If you know two of the angles in a triangle, you can always figure out the third because they must add up to 180 degrees.</ul>
-  <ul>The sum of the lengths of any two sides of a triangle is always longer than the third side.</ul>
-  <ul>The triangle and two is a type of defense used in basketball.</ul>
-
-</li>
+  </ol>
+  </div>
   </body>
 </html>

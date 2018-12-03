@@ -1,35 +1,28 @@
-<<<<<<< HEAD
-body{
-  background-image:url ("Math-Wallpaper.jpg");
-}
-=======
-background;
-
->>>>>>> master
 h1 {
   color: green;
   text-align: center;
   font-style: oblique;
   font-family: sans-serif;
-  
+
 }
-h2 {
+P {
   color: green;
   font-style: italic;
-  text-align: center;
-}
-p {
-  color: green
   font-family: sans-serif;
 }
-<<<<<<< HEAD
-ul {
+H2 {
+  color: green;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+
+.triangles {
   line-height: 40px;
+  text-align: center;
+  color: green;
 }
-#para1 {color:#050;
-  font: bold 84% 'trebuchet ms',helvetica,sans-serif;
-  background-color:#fed;
-  border:1px solid;
-  border-color: #696 #363 #363 #696;}
-=======
->>>>>>> master
+
+#para1 {
+  font: bold 'trebuchet ms',helvetica,sans-serif;
+  color: green;
+}

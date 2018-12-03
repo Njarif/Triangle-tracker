@@ -1,23 +1,25 @@
 h1 {
-  color: green;
+  color: dodgerblue;
   text-align: center;
   font-style: oblique;
   font-family: sans-serif;
-
 }
 P {
-  color: green;
+  color: dodgerblue;
   font-style: italic;
   font-family: sans-serif;
 }
 H2 {
-  color: green;
+  color: dodgerblue;
   font-style: italic;
   font-family: sans-serif;
   text-align: center;
-
- .triangles {
-  line-height: 40px;
-  text-align: center;
-  color: green;
+}
+ul{
+  color: dodgerblue;
+  text-align: left;
+  text-transform: capitalize;
+  line-height: normal;
+  font-style: oblique;
+  font-family: sans-serif;
 }

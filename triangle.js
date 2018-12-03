@@ -1,7 +1,7 @@
 function triangletracker(){
-var x = parseInt(prompt("enter value x:"));
-var y = parseInt(prompt("enter value y:"));
-var z = parseInt(prompt("enter value z:"));
+var x = parseInt(prompt("Enter value x:"));
+var y = parseInt(prompt("Enter value y:"));
+var z = parseInt(prompt("Enter value z:"));
 
 if(x==y && y==z){
 alert("Your triangle is an Equilateral: All sides are equal");

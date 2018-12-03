@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 body{
   background-image:url ("Math-Wallpaper.jpg");
 }
+=======
+background;
+
+>>>>>>> master
 h1 {
   color: green;
   text-align: center;
@@ -17,6 +22,7 @@ p {
   color: green
   font-family: sans-serif;
 }
+<<<<<<< HEAD
 ul {
   line-height: 40px;
 }
@@ -25,3 +31,5 @@ ul {
   background-color:#fed;
   border:1px solid;
   border-color: #696 #363 #363 #696;}
+=======
+>>>>>>> master

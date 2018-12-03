@@ -4,27 +4,30 @@ h1 {
   font-style: oblique;
   font-family: sans-serif;
 }
+
 P {
   color: orange;
   font-style: italic;
   font-family: sans-serif;
 }
-.numbers{
-  text-decoration: underline;
 
+.numbers {
+  text-decoration: underline;
 }
+
 H2 {
   color: orange;
   font-style: italic;
   font-family: sans-serif;
   text-align: center;
 }
-ul{
+
+ul {
   color: orange;
   text-align: left;
   text-transform: capitalize;
   line-height: normal;
   font-style: oblique;
   font-family: sans-serif;
-  line-height:200%
+  line-height: 200%
 }

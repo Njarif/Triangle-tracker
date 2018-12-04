@@ -11,7 +11,7 @@ The website is a triangle tracker that allows users to identify(track) what type
 ## Known Bugs
 The new update works perfectly and there are no known errors. If found please reach out to us on abcdef@gmail.com and we will happily attend to them as soon as possible.
 ## Technologies Used
-I used basic HTML, CSS and Javascript up until this point but there are more changes on the way.I expect to incorporate jQuery for the forms to work.
+I used basic HTML, CSS and Javascript up until this point but there are more changes on the way.I incorporated jQuery for the forms to work as well.
 ## Support and contact details
 Please reach out to me on abcdef@gmail.com for support.If you'd also like to request a new function, feel free to do so as well. All feedback is highly appreciated.
 ### License

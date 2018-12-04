@@ -9,7 +9,7 @@ The website is a triangle tracker that allows users to identify(track) what type
 * Values (integers) to test.
 * As it's a simple website, there are no dependancies, databases to set up or any other code required to run the site.
 ## Known Bugs
-The website as of now prompts the user to input their values twice, once on the landing page and when they "submit" their values. I am working on fixing this as soon as possible using jQuery. Expect updates soon.
+The new update works perfectly and there are no known errors. If found please reach out to us on abcdef@gmail.com and we will happily attend to them as soon as possible.
 ## Technologies Used
 I used basic HTML, CSS and Javascript up until this point but there are more changes on the way.I expect to incorporate jQuery for the forms to work.
 ## Support and contact details
